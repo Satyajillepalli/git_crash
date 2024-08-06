@@ -5,3 +5,7 @@ const dob='14/09/23';
 function sayName(){
     console.log(name)
 }
+
+function isabove() {
+    return age >= 18
+}
