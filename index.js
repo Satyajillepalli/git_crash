@@ -6,6 +6,6 @@ function sayName(){
     console.log(name)
 }
 
-function isabove() {
-    return age >= 18
+function newFn() {
+    console.log('hey im a new fn')
 }
