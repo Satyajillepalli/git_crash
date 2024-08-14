@@ -14,3 +14,7 @@ function newFeature() {
     console.log('this is feature')
     console.log('new feature aaa ')
 }
+function newFeatureCCC() {
+    console.log('this is feature -c')
+    console.log('new feature -- ccc ')
+}
