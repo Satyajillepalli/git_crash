@@ -21,4 +21,5 @@ function newFeatureCCC() {
 function newFeature_ZZ() {
     console.log('this is feature -Z')
     console.log('new feature -- Z ')
+    console.log('New Zen feature')
 }
